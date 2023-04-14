@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "name": "🚚 Good Skills Delivery Services",
+    "link": "https://ahmedev.me/Good-Skills-Delivery-Frontend",
+    "technology": [
+      "ReactJS",
+      "Leaflet-Maps",
+      "OPenStreetMap"
+    ],
+    "desc": "Landing Page of Courier company based in Dubai, UAE. The frontend was developed using ReactJs along with integration of react-leaflet-map for customers to easily provide the pickup and drop off location.",
+    "img": "imglink"
+  },
+  {
+    "id": 2,
+    "name": "🧑‍💻 Techome - Ecommerce Store",
+    "link": "https://github.com/Th3Un1qu3M4n/techome.pak",
+    "technology": [
+      "Laravel",
+      "Javascript",
+      "TinyMCE",
+      "MySQL"
+    ],
+    "desc": "A full fledged ecommerce management system developed in Laravel framwork. Jquery Ajax is also used to load dynamic content without refereshing the pages. TinyMCE is also integerated to allow easy creation of porducts pages. ",
+    "img": "imglink"
+  },
+  {
+    "id": 3,
+    "name": "🌽 Node Farm - Product Listing Website",
+    "link": "https://github.com/Th3Un1qu3M4n/NodeFarm",
+    "technology": [
+      "Node JS",
+      "Node fs Module"
+    ],
+    "desc": "A demo project made in Node Js that uses the file system (fs) module to read products from json file on the system and serves template pages using the data available.",
+    "img": "imglink"
+  },
+  {
+    "id": 4,
+    "name": " 🔗 Solidity Smart Contract Deployer",
+    "link": "https://github.com/Th3Un1qu3M4n/smart-contract-deployer-python",
+    "technology": [
+      "Solidity",
+      "Python",
+      "Web3.py",
+      "Ganache-CLI"
+    ],
+    "desc": "A python program that compiles and deploy the contract on ganache blockchain. Another small program is also developed that help interact with the escrow contract that is deployed using the deployer.",
+    "img": "imglink"
+  },
+  {
+    "id": 5,
+    "name": " 🛠️ Proxmox Server",
+    "link": "#",
+    "technology": [
+      "Proxmox",
+      "HASS.io",
+      "Motion Eye",
+      "Ubuntu Server"
+    ],
+    "desc": "A proxmox server spinned up locally by repurposing an old PC. Home Assistant Server is also installed that connects to various devices on the local netwowrk. Motion Eye is used to locally record as well as upload CCTV footage to cloud servers.",
+    "img": "imglink"
+  }
+]
