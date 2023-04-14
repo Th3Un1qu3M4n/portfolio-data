@@ -9,7 +9,7 @@
       "OPenStreetMap"
     ],
     "desc": "Landing Page of Courier company based in Dubai, UAE. The frontend was developed using ReactJs along with integration of react-leaflet-map for customers to easily provide the pickup and drop off location.",
-    "img": "imglink"
+    "img": "https://raw.githubusercontent.com/Th3Un1qu3M4n/portfolio-data/main/gsDelivery-desktop.png"
   },
   {
     "id": 2,
@@ -22,7 +22,7 @@
       "MySQL"
     ],
     "desc": "A full fledged ecommerce management system developed in Laravel framwork. Jquery Ajax is also used to load dynamic content without refereshing the pages. TinyMCE is also integerated to allow easy creation of porducts pages. ",
-    "img": "imglink"
+    "img": "https://raw.githubusercontent.com/Th3Un1qu3M4n/portfolio-data/main/techome-demo.jpeg"
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
       "Node fs Module"
     ],
     "desc": "A demo project made in Node Js that uses the file system (fs) module to read products from json file on the system and serves template pages using the data available.",
-    "img": "imglink"
+    "img": "https://raw.githubusercontent.com/Th3Un1qu3M4n/portfolio-data/main/nodeFarm.png"
   },
   {
     "id": 4,
@@ -46,7 +46,7 @@
       "Ganache-CLI"
     ],
     "desc": "A python program that compiles and deploy the contract on ganache blockchain. Another small program is also developed that help interact with the escrow contract that is deployed using the deployer.",
-    "img": "imglink"
+    "img": "https://raw.githubusercontent.com/Th3Un1qu3M4n/portfolio-data/main/sol_deployer.jpeg"
   },
   {
     "id": 5,
@@ -59,6 +59,6 @@
       "Ubuntu Server"
     ],
     "desc": "A proxmox server spinned up locally by repurposing an old PC. Home Assistant Server is also installed that connects to various devices on the local netwowrk. Motion Eye is used to locally record as well as upload CCTV footage to cloud servers.",
-    "img": "imglink"
+    "img": "https://raw.githubusercontent.com/Th3Un1qu3M4n/portfolio-data/main/proxmox-demo.jpeg"
   }
 ]
