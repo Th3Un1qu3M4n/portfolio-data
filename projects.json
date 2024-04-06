@@ -2,7 +2,7 @@
   {
     "id": 6,
     "name": "⏳ Hourself: Cross-Platform Activity Tracking App",
-    "link": "https://github.com/Th3Un1qu3M4n/Good-Skills-Delivery-Frontend",
+    "link": "https://github.com/Th3Un1qu3M4n/Hourself",
     "technology": [
       "React Native",
       "OAuth",
@@ -10,7 +10,7 @@
       "Android",
       "iOS"
     ],
-    "desc": "Hourself is a cross-platform mobile application designed to assist users in effectively managing their daily activities. Developed as a Minimum Viable Product (MVP), the app leverages the React Native framework for its user interface and integrates Firebase for authentication and data storage. Hourself caters to users seeking a streamlined activity tracking experience and supports various login methods, including email/password and third-party authentication.",
+    "desc": "Hourself is a cross-platform mobile application designed to assist users in effectively managing their daily activities. Hourself caters to users seeking a streamlined activity tracking experience and supports various login methods, including email/password and third-party authentication.",
     "img":"https://raw.githubusercontent.com/Th3Un1qu3M4n/portfolio-data/main/hourself.png"
   },
   {
