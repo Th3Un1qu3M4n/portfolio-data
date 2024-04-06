@@ -1,4 +1,19 @@
-[
+[  
+  {
+    "id": 7,
+    "name": "🏢📱 Cho Luxury: Cross Platform Rental App",
+    "link": "https://github.com/Th3Un1qu3M4n/Cho-Luxury-Rental-App",
+    "technology": [
+      "React Native",
+      "AWS",
+      "Stripe",
+      "Node.js",
+      "Android",
+      "iOS"
+    ],
+    "desc": "Luxury real estate rental platform offers a user-friendly app with exclusive benefits and transparent expense tracking. Efficient admin management ensures seamless operations.",
+    "img":"https://raw.githubusercontent.com/Th3Un1qu3M4n/portfolio-data/main/ChoLuxury.png"
+  },
   {
     "id": 6,
     "name": "⏳ Hourself: Cross-Platform Activity Tracking App",
